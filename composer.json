@@ -8,5 +8,11 @@
             "name": "danieldolz",
             "email": "danieldolz@iesebre.com"
         }
-    ]
+    ],
+
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
 }

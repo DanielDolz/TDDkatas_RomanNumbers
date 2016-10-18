@@ -1,0 +1,23 @@
+{
+  "name": "danieldolz_romannumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielDolz/TDDkatas_RomanNumbers.git"
+  },
+  "author": "Daniel <ddolzh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielDolz/TDDkatas_RomanNumbers/issues"
+  },
+  "homepage": "https://github.com/DanielDolz/TDDkatas_RomanNumbers#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-11"
+  }
+}
