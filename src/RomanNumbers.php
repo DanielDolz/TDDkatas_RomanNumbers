@@ -11,13 +11,16 @@ class RomanNumbers
             return "V";
         }
 
-        if ($number==3) {
-            return "III";
-        }
+        // Millorar codi
+        return str_repeat('I',$number);
 
-        if ($number==2) {
-            return "II";
-        }
-        return "I";
+//        if ($number==3) {
+//            return "III";
+//        }
+//
+//        if ($number==2) {
+//            return "II";
+//        }
+//        return "I";
     }
 }
