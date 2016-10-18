@@ -1,0 +1,12 @@
+{
+    "name": "danieldolz/roman-numbers",
+    "require": {
+        "phpspec/phpspec": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "danieldolz",
+            "email": "danieldolz@iesebre.com"
+        }
+    ]
+}
